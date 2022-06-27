@@ -16,7 +16,7 @@ h4,
 h5,
 h6 {
   font-weight: bold;
-  font-family: var(--default-font-family);
+  font-family: var(--heading-font-family);
 }
 
 h1 {
@@ -87,6 +87,7 @@ p {
 .about-section h1 {
   font-size: 64px;
   line-height: 80px;
+  margin-top: -20px;
 }
 
 .about-section h2 {
@@ -95,7 +96,11 @@ p {
 }
 
 .about-section-content {
-  margin: 30px;
+  margin: 20px;
+}
+
+.joelle-photo {
+  border-radius: 25px;
 }
 
 @media (max-width: 900px) {
