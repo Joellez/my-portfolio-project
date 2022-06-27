@@ -74,8 +74,11 @@ p {
 .subheading {
   font-size: 20px;
 }
+.tour-heading {
+  margin-top: -20px;
+}
 .project-description {
-  padding: 50px 60px; /* 120px 60px */
+  padding: 20px 60px; /* 120px 60px */
 }
 
 .about-section {
