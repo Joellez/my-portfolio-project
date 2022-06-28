@@ -112,8 +112,20 @@ p {
   border-radius: 60px;
 }
 .logo {
-  max-height: 150px;
+  max-height: 40px;
 }
+.navbar {
+  padding:10px;
+}
+.active {
+  color: var(--branding-color) !important;
+}
+
+.nav-item {
+  line-height: 25px;
+}
+
+/*
 nav {
   padding: 20px 0;
 }
@@ -137,6 +149,8 @@ nav a:hover,
 nav li.active a {
   color: var(--branding-color);
 }
+*/
+
 
 @media (max-width: 900px) {
   h1 {
