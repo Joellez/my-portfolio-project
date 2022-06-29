@@ -152,7 +152,7 @@ p {
   .navbar-brand {
     order: 1;
     margin: 0 auto;
-    padding-right: 45px;
+    padding-right: 50px;
   }
   .navbar-toggle {
     order: 0;
