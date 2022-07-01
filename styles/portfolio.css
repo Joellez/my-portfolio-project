@@ -24,6 +24,10 @@ h1 {
   line-height: 1.5;
 }
 
+.work-heading {
+  font-size: 40px;
+}
+
 h2 {
   font-size: 64px;
 }
