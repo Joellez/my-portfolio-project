@@ -147,6 +147,8 @@ p {
   border-radius: 60px;
 }
 
+.right-to-work-note{font-size: 12px;}
+
 .navbar {
   padding: 15px;
 }
@@ -265,6 +267,7 @@ footer .social-links a:hover {
     display: flex;
     justify-content: center;
   }
+
   #courses-link {
     margin-top: -50px !important;
     margin-bottom: -20px;
